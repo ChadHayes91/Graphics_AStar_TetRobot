@@ -1,6 +1,6 @@
 ## Graphics TetRobot Pathfinding with A*
 
-Link to GitHub Page: 
+Link to GitHub Page: https://chadhayes91.github.io/Pathfinding_TetRobot/
 
 Project for CS 6491 Computer Graphics at Georgia Tech. This project was a two-man group effort with Steven Hillerman (also currently a GT student). Base code for 3D rendering was provided by the instructor: Jarek Rossignac.
 
