@@ -29,7 +29,7 @@ before the TetRobot begins movement.
 <li> &nbsp; '-': toggle smooth motion </li>
 </ol>
 
-The TetRobot now moves towards the mouse instead of needing any character input from the user. There also exists red cylindrical obstacles with
+The TetRobot always moves towards the user's current mouse location. There also exists red cylindrical obstacles with
 varying radius values throughout the canvas which the TetRobot cannot pass through. Putting your mouse somewhere behind an obstacle should be sufficient for testing this
 functionality. In addition, if you put your mouse cursor inside of an obstacle (so the TetRobot has no way of actually getting to the goal), the TetRobot should go as close
 to the goal as it can before stopping animation. Moving the cursor again to another location should make the TetRobot start moving again.
