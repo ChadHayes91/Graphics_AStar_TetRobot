@@ -16,17 +16,17 @@ The TetRobot initially stays in place until the command 't' is given to start th
 before the TetRobot begins movement. 
 
 <ol> 
-  <li> 'm': highlight mouse </li>
-<li> 't': toggle mouse tracking navigation (starts false) </li>
-<li> 'r': reset </li>
-<li> 'g': reset and begin animation </li>
-<li> 'a': start/pause animation </li>
-<li> '#': show/hide tiles </li>
-<li> '^': show/hide current tetrahedron </li>
-<li> 'h': show/hide ghost tetrahedra </li>
-<li> 'b': show/hide body </li>
-<li> 'l': show/hide legs </li>
-<li> '-': toggle smooth motion </li>
+  <li> &nbsp; 'm': highlight mouse </li>
+<li> &nbsp; 't': toggle mouse tracking navigation (starts false) </li>
+<li> &nbsp; 'r': reset </li>
+<li> &nbsp; 'g': reset and begin animation </li>
+<li> &nbsp; 'a': start/pause animation </li>
+<li> &nbsp; '#': show/hide tiles </li>
+<li> &nbsp; '^': show/hide current tetrahedron </li>
+<li> &nbsp; 'h': show/hide ghost tetrahedra </li>
+<li> &nbsp; 'b': show/hide body </li>
+<li> &nbsp; 'l': show/hide legs </li>
+<li> &nbsp; '-': toggle smooth motion </li>
 </ol>
 
 The TetRobot now moves towards the mouse instead of needing any character input from the user. There also exists red cylindrical obstacles with
